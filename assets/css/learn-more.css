@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to top, #0250c5 0%, #d43f8d 100%);
+    color:#fff;
+  }
+  h5{
+        color: #fff;
+  }
+  img {
+    border-radius: 50%;
+    border: solid #fff 2px;
+  }
+  .name{
+      color: #fff;
+  }
+  .love{
+      color: #fff !important;
+  }
+  /*----------------- Mail-------------------- */
+  #email{
+      text-decoration: none;
+      float: right;
+      color:#fff;
+  }
+  .footer{
+      margin-top: 5% !important;
+      margin-bottom: 10px;
+  }
+  @media (max-width: 479px) {
+       .footer{
+       margin-top: 35% !important;
+       }
+  }
